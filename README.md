@@ -10,3 +10,4 @@
 [week3 vaishak 1wa25cs296.docx](https://github.com/user-attachments/files/34002526/week3.vaishak.1wa25cs296.docx)
 [WEEK 5 AND WEEK 6 DBMS.docx](https://github.com/user-attachments/files/34305764/WEEK.5.AND.WEEK.6.DBMS.docx)
 
+[week 7 dbms.docx](https://github.com/user-attachments/files/34957079/week.7.dbms.docx)
